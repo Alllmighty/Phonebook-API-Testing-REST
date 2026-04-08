@@ -1,4 +1,10 @@
+.idea/
+allure-report/
+allure-results/
+out/
 target/
+build/
+*.log
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
